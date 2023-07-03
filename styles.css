@@ -9,6 +9,10 @@
     padding: 10px;
 }
 
+h2 {
+	text-align: center;
+}
+
 h3 {
     text-decoration: underline;
 }
